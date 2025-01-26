@@ -32,7 +32,7 @@
 
 
   <!-- MAIN.PY -->
-  <details>
+  <details open>
   <summary><h2>MAIN.PY</h2></summary>
   <br>
     
@@ -92,9 +92,9 @@
 
 
 
-
+  <br><br><br>
   <!-- GAMEEN.PY & GAMEPT.PY -->
-  <details>
+  <details open>
   <summary><h2>GAME.PY</h2></summary>
   <br>
     
@@ -292,9 +292,9 @@
 
 
 
-
+  <br><br><br>
   <!-- FUNCTIONS.PY -->
-  <details>
+  <details open>
   <summary><h2>FUNCTIONS.PY</h2></summary>
   <br>
     
@@ -457,9 +457,9 @@
 
 
 
-
+  <br><br><br>
   <!-- MODELS.PY -->
-  <details>
+  <details open>
   <summary><h2>MODELS.PY</h2></summary>
   <br>
     
@@ -521,9 +521,9 @@
 
 
 
-  
+  <br><br><br>
   <!-- COLORS.PY -->
-  <details>
+  <details open>
   <summary><h2>COLORS.PY</h2></summary>
   <br>
     
